@@ -15,7 +15,7 @@ For our examples we will be building a `hamburger` method that takes an array of
 - Manipulate that data (do something to it).
 - Return the manipulated data.
 
-## each
+## Each
 The most important thing to remember about `each` is that it does not change the return value. It implicitly returns the original array.
 
 ```ruby
@@ -65,7 +65,7 @@ end
 However, if we do want a different return value, there is a handy method called `map`, also known as `collect`. These methods are abstractions of our `each` method. An abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics. Let's take a look at a few examples.
 
 
-## map & collect
+## Map & Collect
 
 ```ruby
 toppings = ["pickles", "mushrooms", "bacon"]
