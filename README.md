@@ -1,5 +1,4 @@
-# Iteration: Each Vs. Collect
-
+# Each vs collect
 
 ## Objectives
 1. Identify the return values of the `each` and `collect` methods.
@@ -7,7 +6,6 @@
 
 ## Overview
 This lesson will give a deeper dive on how to use the `each` and `collect` methods.
-
 
 For our examples we will be building a `hamburger` method that takes an array of `toppings` as an argument.
 
